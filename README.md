@@ -1,6 +1,5 @@
 # 🧠 QuizApp - Interactive Learning Platform
 
-![QuizApp](https://via.placeholder.com/800x400/3498db/ffffff?text=QuizApp+Interactive+Learning)
 
 ## 📖 Overview
 
